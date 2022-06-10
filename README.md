@@ -12,7 +12,7 @@
 
 ## Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Nestjs, React, Quasar, Javascript, Java, Golang, Kubernetes, AWS, Azure, Google Cloud Platform etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Nestjs, React, Quasar, Javascript, Java, Golang, Kubernetes.
 - 🚀 &nbsp; I’m an Application Architect who loves working with any technologies and always test my limit.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nmrony).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/nmrony/nmrony/issues/1)! I am happy to help.

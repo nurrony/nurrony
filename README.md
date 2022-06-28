@@ -3,10 +3,10 @@
 # <img src="gifs/hi.gif" width="30px" height="30px"> Hi there, I'm Nur Rony
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nmrony)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://nmrony.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://nurrony.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nmrony)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-f48225?style=flat-square&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/1294213/nur-rony)
-![](https://visitor-badge.glitch.me/badge?page_id=nmrony.nmrony&style=flat-square&color=0088cc&left_text=Hello%20Visitors)
+![](https://visitor-badge.glitch.me/badge?page_id=nurrony.nurrony&style=flat-square&color=0088cc&left_text=Hello%20Visitors)
 
 
 
@@ -14,19 +14,19 @@
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Nestjs, React, Quasar, Javascript, Java, Golang, Kubernetes.
 - 🚀 &nbsp; I’m an Application Architect who loves working with any technologies and always test my limit.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nmrony).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/nmrony/nmrony/issues/1)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nurrony).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/nurrony/nurrony/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: <a href="mailto:pro.nmrony@gmail.com">pro.nmrony@gmail.com</a>
-- 📝 &nbsp; Checkout my [CV](https://github.com/nmrony/nmrony/blob/master/cv.pdf).
+- 📝 &nbsp; Checkout my [CV](https://github.com/nurrony/nurrony/blob/master/cv.pdf).
 
 
 ## Projects and Dev Stuffs:
 ### ⚡ Github Stats
-<img src="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nmrony&show_icons=true&locale=en&hide_border=true" alt="nmrony" />
+<img src="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=true" alt="nurrony" />
 
 
 ### 🏆 Contribution Trophies
-<a href="https://github-profile-trophy.vercel.app/?username=nmrony"><img src="https://github-profile-trophy.vercel.app/?username=nmrony&theme=onedark&row=1&no-bg=true&no-frame=true" alt="nmrony" /></a>
+<a href="https://github-profile-trophy.vercel.app/?username=nurrony"><img src="https://github-profile-trophy.vercel.app/?username=nurrony&theme=onedark&row=1&no-bg=true&no-frame=true" alt="nurrony" /></a>
 
 
 ### 🧑‍🚀 Open Source Projects and contributions
@@ -44,35 +44,35 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/nmrony/hlsdownloader"><b>👨🏻‍💻 HLS Downloader</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nmrony/hlsdownloader?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nmrony/hlsdownloader?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nmrony/hlsdownloader?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nmrony/hlsdownloader?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/nmrony/hlsdownloader?style=flat-square"/></td>
+      <td><a href="https://github.com/nurrony/hlsdownloader"><b>👨🏻‍💻 HLS Downloader</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrony/hlsdownloader?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrony/hlsdownloader?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrony/hlsdownloader?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nurrony/hlsdownloader?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/nurrony/hlsdownloader?style=flat-square"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/nmrony/gtni"><b>👨🏻‍💻 gtni</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nmrony/gtni?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nmrony/gtni?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nmrony/gtni?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nmrony/gtni?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/nmrony/gtni?label=javascript&style=flat-square"/></td>
+      <td><a href="https://github.com/nurrony/gtni"><b>👨🏻‍💻 gtni</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrony/gtni?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrony/gtni?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrony/gtni?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nurrony/gtni?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/nurrony/gtni?label=javascript&style=flat-square"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/nmrony/hlsdownloader-cli"><b>👨🏻‍💻 hlsdownloader-cli</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nmrony/hlsdownloader-cli?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nmrony/hlsdownloader-cli?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nmrony/hlsdownloader-cli?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nmrony/hlsdownloader-cli?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/nmrony/hlsdownloader-cli?style=flat-square"/></td> 
+      <td><a href="https://github.com/nurrony/hlsdownloader-cli"><b>👨🏻‍💻 hlsdownloader-cli</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrony/hlsdownloader-cli?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrony/hlsdownloader-cli?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrony/hlsdownloader-cli?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nurrony/hlsdownloader-cli?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/nurrony/hlsdownloader-cli?style=flat-square"/></td> 
     </tr>
     <tr>
-      <td><a href="https://github.com/nmrony/dotfiles"><b>✨👨🏻‍💻 Dotfiles</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nmrony/dotfiles?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nmrony/dotfiles?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nmrony/dotfiles?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nmrony/dotfiles?style=flat-square"/></td>
+      <td><a href="https://github.com/nurrony/dotfiles"><b>✨👨🏻‍💻 Dotfiles</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nurrony/dotfiles?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nurrony/dotfiles?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nurrony/dotfiles?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nurrony/dotfiles?style=flat-square"/></td>
       <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
     </tr>
     <tr>

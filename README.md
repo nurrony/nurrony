@@ -304,8 +304,7 @@
 
 ## My Workspace:
 <img height=30 src="https://img.shields.io/badge/macbookpro-Late 2015-000?style=for-the-badge&logo=apple&logoColor=FFFFFF">  &nbsp;
-<img height=30 src="https://img.shields.io/badge/windows 11-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"> &nbsp;
-<img height=30 src="https://img.shields.io/badge/Ubuntu-Jammy Jellyfish-C0C0C0?style=for-the-badge&logo=ubuntu"></br>
+<img height=30 src="https://img.shields.io/badge/Ubuntu-Jammy Jellyfish (via VirtualBox)-C0C0C0?style=for-the-badge&logo=ubuntu"></br>
 
 
 ## 📣 How about an Office quote before you go?

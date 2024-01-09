@@ -7,7 +7,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=nurrony.nurrony&style=flat-square&color=0088cc&left_text=Hello%20Visitors)
 
 
-
 ## Talking about Personal Stuffs:
 
 - 🌍 &nbsp; I'm based in Earth, Milky Way
@@ -21,12 +20,17 @@
 
 ## Projects and Dev Stuffs:
 ### ⚡ Github Stats
-<img src="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=true" alt="nurrony" />
+
+<a href="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=true&rank_icon=github">
+  <img src="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=true&rank_icon=github" alt="nurrony github stat" />
+</a>
 
 
 ### 🏆 Contribution Trophies
-<a href="https://github-profile-trophy.vercel.app/?username=nurrony"><img src="https://github-profile-trophy.vercel.app/?username=nurrony&theme=onedark&row=1&no-bg=true&no-frame=true" alt="nurrony" /></a>
 
+<a href="https://github-profile-trophy.vercel.app/?username=nurrony">
+  <img src="https://github-profile-trophy.vercel.app/?username=nurrony&no-frame=true&row=1&theme=onedark" alt="nurrony" />
+</a>
 
 ### 🧑‍🚀 Open Source Projects and contributions
 
@@ -305,17 +309,14 @@
 <img height=30 src="https://img.shields.io/badge/Ubuntu-Jammy Jellyfish (via VirtualBox)-C0C0C0?style=for-the-badge&logo=ubuntu"></br>
 
 
-## 📣 How about an Office quote before you go?
+## 📣 How about a quote before you go?
 
-> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
->
-> <p>- Kelly Kapoor</p>
+<div align="center">
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
 
-Check back at the top of the hour for a new quote!
+</div>
 
-<br>
 
 > ### Want to know how I made this README?
 >

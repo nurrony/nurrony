@@ -1,3 +1,9 @@
+<div align="center">
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+
+</div>
+
 # <img src="gifs/hi.gif" width="30px" height="30px"> Hi there, I'm Nur Rony
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nmrony)
@@ -307,16 +313,6 @@
 ## My Workspace:
 <img height=30 src="https://img.shields.io/badge/macbookpro-Late 2015-000?style=for-the-badge&logo=apple&logoColor=FFFFFF">  &nbsp;
 <img height=30 src="https://img.shields.io/badge/Ubuntu-Jammy Jellyfish (via VirtualBox)-C0C0C0?style=for-the-badge&logo=ubuntu"></br>
-
-
-## 📣 How about a quote before you go?
-
-<div align="center">
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
-
-</div>
-
 
 > ### Want to know how I made this README?
 >

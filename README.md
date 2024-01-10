@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="50px auto;">
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
 

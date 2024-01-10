@@ -1,6 +1,9 @@
-<div align="center" style="50px auto;">
+<div align="center">
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" style="height: 170px;"/>
+<br/>
+<br/>
+<br/>
 
 </div>
 

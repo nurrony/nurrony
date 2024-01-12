@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" style=""/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" style="height: 160px;margin: 0 auto;"/>
 </div>
 
 # <img src="gifs/hi.gif" width="30px" height="30px"> Hi there, I'm Nur Rony

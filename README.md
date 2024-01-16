@@ -19,7 +19,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nurrony).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/nurrony/nurrony/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: <a href="mailto:pro.nmrony@gmail.com">pro.nmrony@gmail.com</a>
-- 📝 &nbsp; Checkout My <a href="https://drive.google.com/file/d/1O8ee54w8tBcd_EZCqHk6Fu_Vcx5llPFn/view?usp=sharing" download="Nur-Rony-CV.pdf" target="_blank" rel="noopener"><strong>Curriculum Vitae (CV)</strong></a>.
+- 📝 &nbsp; Checkout My <a href="https://docs.google.com/document/d/1la47ET1NNEkxadiVgSZXz4kAvt_AIaHyvpZLKFkNW5Q" download="Nur-Rony-CV.pdf" target="_blank" rel="noopener"><strong>Curriculum Vitae (CV)</strong></a>.
 
 
 ## Projects and Dev Stuffs:

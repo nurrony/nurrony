@@ -8,7 +8,6 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://nurrony.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nmrony)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-f48225?style=flat-square&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/1294213/nur-rony)
-![](https://visitor-badge.glitch.me/badge?page_id=nurrony.nurrony&style=flat-square&color=0088cc&left_text=Hello%20Visitors)
 
 
 ## Talking about Personal Stuffs:

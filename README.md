@@ -13,7 +13,7 @@
 ## Talking about Personal Stuffs:
 
 - 🌍 &nbsp; I'm based in Earth, Milky Way
-- 🛠 &nbsp; I’m currently working with Nodejs, Nestjs, React, Quasar, Javascript, Java, Golang, Kubernetes.
+- 🛠 &nbsp; I’m currently working with Spring, Quarkus Nodejs, NestJS, ReactJS, Quasar, Javascript, Java, Golang, Kubernetes.
 - 🚀 &nbsp; I’m an Application Architect who loves working with any technologies and always test my limit.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nurrony).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/nurrony/nurrony/issues/1)! I am happy to help.

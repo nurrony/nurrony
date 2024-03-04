@@ -24,7 +24,7 @@
 ## Projects and Dev Stuffs:
 ### ⚡ Github Stats
 
-<table>
+<table style="border: 0;">
   <tr>
     <td>
       <a href="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=false&rank_icon=github">

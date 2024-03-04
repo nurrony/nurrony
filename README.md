@@ -25,7 +25,7 @@
 ### ⚡ Github Stats
 
 <a href="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=false&rank_icon=github">
-  <img src="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=true&rank_icon=github" alt="nurrony github stat" />
+  <img src="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=false&rank_icon=github" alt="nurrony github stat" />
 </a>
 
 

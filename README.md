@@ -23,7 +23,14 @@
 
 ## Projects and Dev Stuffs:
 ### ⚡ Github Stats
-
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  td, th {
+    border: none!important;
+  }
+</style>
 <table style="border: 0;">
   <tr style="border: 0;">
     <td style="border: 0;">

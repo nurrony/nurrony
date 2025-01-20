@@ -119,9 +119,11 @@
 
 ## Expertise
 
-<p align="left"></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kubernetes,aws,docker,azure,gcp,terraform,kafka,rabbitmq,ansible,linux,redhat,ubuntu,mysql,postgres,redis,mongodb,firebase,elasticsearch,git,java,js,nodejs,php,go,dart,spring,scala,angular,vue,svelte,nestjs,laravel,css,tailwind" alt="Nur Rony's Expertise" />
+</p>
 
-## My Workspace:
+## My Workspace
 <img height=30 src="https://img.shields.io/badge/macbookpro-Late 2015-000?style=for-the-badge&logo=apple&logoColor=FFFFFF">  &nbsp;
 <img height=30 src="https://img.shields.io/badge/Ubuntu-Jammy Jellyfish (via VirtualBox)-C0C0C0?style=for-the-badge&logo=ubuntu"></br>
 

@@ -23,20 +23,11 @@
 
 ## Projects and Dev Stuffs:
 ### ⚡ Github Stats
-
-<table style="border: 0;">
-  <tr style="border: 0;">
-    <td style="border: 0;">
-      <a href="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=false&rank_icon=github">
-        <img src="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=false&rank_icon=github" alt="nurrony github stat" />
-      </a>
-    </td>
-    <!-- <td style="border: 0;"><a href="https://streak-stats.demolab.com?user=nurrony&amp;theme=dark&amp;date_format=M%20j%5B%2C%20Y%5D"><img src="https://streak-stats.demolab.com?user=nurrony&amp;theme=dark&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a>
-    </td> -->
-  </tr>
-</table>
-
-
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=false&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=false&rank_icon=github" alt="nurrony github stat" />
+  </a>
+</p>
 ### 🏆 Contribution Trophies
 
 <a href="https://github-profile-trophy.vercel.app/?username=nurrony">

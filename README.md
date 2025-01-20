@@ -120,7 +120,7 @@
 ## Expertise
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=kubernetes,aws,docker,azure,gcp,terraform,kafka,rabbitmq,ansible,linux,redhat,ubuntu,mysql,postgres,redis,mongodb,firebase,elasticsearch,git,java,js,nodejs,php,go,dart,spring,scala,angular,vue,svelte,nestjs,laravel,css,tailwind" alt="Nur Rony's Expertise" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,openshift,githubactions,terraform,kafka,rabbitmq,ansible,linux,prometheus,grafana,mysql,postgres,redis,mongodb,firebase,dynamodb,elasticsearch,git,github,gitlab,java,js,nodejs,deno,php,golang,dart,spring,scala,angular,react,vue,svelte,nestjs,laravel,css,tailwind,bootstrap,vscode,idea,neovim" alt="Nur Rony's Expertise" />
 </p>
 
 ## My Workspace

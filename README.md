@@ -31,8 +31,8 @@
         <img src="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=false&rank_icon=github" alt="nurrony github stat" />
       </a>
     </td>
-    <td style="border: 0;"><a href="https://streak-stats.demolab.com?user=nurrony&amp;theme=dark&amp;date_format=M%20j%5B%2C%20Y%5D"><img src="https://streak-stats.demolab.com?user=nurrony&amp;theme=dark&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a>
-    </td>
+    <!-- <td style="border: 0;"><a href="https://streak-stats.demolab.com?user=nurrony&amp;theme=dark&amp;date_format=M%20j%5B%2C%20Y%5D"><img src="https://streak-stats.demolab.com?user=nurrony&amp;theme=dark&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a>
+    </td> -->
   </tr>
 </table>
 

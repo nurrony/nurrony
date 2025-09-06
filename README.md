@@ -25,28 +25,28 @@
 <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&theme=tokyonight&rank_icon=github&border_color=2f80ed"
+    srcset="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&theme=tokyonight&rank_icon=github&border_color=4493f8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&rank_icon=github&border_color=2f80ed"
+    srcset="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&rank_icon=github&border_color=4493f8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&rank_icon=github&border_color=2f80ed" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&rank_icon=github&border_color=4493f8" />
 </picture>
 </p>
 
 <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&show_icons=true&theme=tokyonight&border=2f80ed"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&show_icons=true&theme=tokyonight&border=4493f8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&border=2f80ed"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&border=4493f8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&border=2f80ed" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&border=4493f8" />
 </picture>
 </p>
 
@@ -138,9 +138,10 @@
 </p>
 
 ## My Workspace
-<img height=30 src="https://img.shields.io/badge/macbookpro-Late 2015-000?style=for-the-badge&logo=apple&logoColor=FFFFFF">  &nbsp;
-<img height=30 src="https://img.shields.io/badge/Ubuntu-Jammy Jellyfish (via VirtualBox)-C0C0C0?style=for-the-badge&logo=ubuntu"></br>
+<img height=30 src="https://img.shields.io/badge/macbookpro-Late 2015 (Personal)-000?style=for-the-badge&logo=apple&logoColor=FFFFFF">  &nbsp;
+<img height=30 src="https://img.shields.io/badge/macbookpro- 14 inch M4 2024 (Office)-000?style=for-the-badge&logo=apple&logoColor=FFFFFF">  &nbsp;
+<img height=30 src="https://img.shields.io/badge/Ubuntu-Plucky Puffin (via VirtualBox)-C0C0C0?style=for-the-badge&logo=ubuntu"></br>
 
-> ### Want to know how I made this README?
->
-> Check out this [Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)!
+### Want to know how I made this README?
+
+Check out this [Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)!

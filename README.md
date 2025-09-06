@@ -138,9 +138,11 @@
 </p>
 
 ## My Workspace
+<p align="center">
 <img height=30 src="https://img.shields.io/badge/macbookpro-Late 2015 (Personal)-000?style=for-the-badge&logo=apple&logoColor=FFFFFF">  &nbsp;
 <img height=30 src="https://img.shields.io/badge/macbookpro- 14 inch M4 2024 (Office)-000?style=for-the-badge&logo=apple&logoColor=FFFFFF">  &nbsp;
 <img height=30 src="https://img.shields.io/badge/Ubuntu-Plucky Puffin (via VirtualBox)-C0C0C0?style=for-the-badge&logo=ubuntu"></br>
+</p>
 
 ### Want to know how I made this README?
 

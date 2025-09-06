@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" style="height: 180px;margin: 0 auto;"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" style="height: 180px;margin: 0 auto;"/>
 </div>
 
 # <img src="gifs/hi.gif" width="30px" height="30px"> Hi there, I'm Nur Rony
@@ -20,14 +20,36 @@
 - 📫 &nbsp; How to reach me: <a href="mailto:pro.nmrony@gmail.com">pro.nmrony@gmail.com</a>
 - 📝 &nbsp; Checkout My <a href="https://docs.google.com/document/d/1la47ET1NNEkxadiVgSZXz4kAvt_AIaHyvpZLKFkNW5Q" download="Nur-Rony-CV.pdf" target="_blank" rel="noopener"><strong>Curriculum Vitae (CV)</strong></a>.
 
-
 ## Projects and Dev Stuffs:
 ### ⚡ Github Stats
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=false&rank_icon=github">
-    <img src="https://github-readme-stats.vercel.app/api?&theme=github_dark&username=nurrony&show_icons=true&locale=en&hide_border=false&rank_icon=github" alt="nurrony github stat" />
-  </a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&theme=tokyonight&rank_icon=github&border_color=2f80ed"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&rank_icon=github&border_color=2f80ed"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&rank_icon=github&border_color=2f80ed" />
+</picture>
 </p>
+
+<p align="center">
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&show_icons=true&theme=tokyonight&border=2f80ed"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&border=2f80ed"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&border=2f80ed" />
+</picture>
+</p>
+
 
 ### 🏆 Contribution Trophies
 

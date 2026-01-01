@@ -14,48 +14,11 @@
 
 - 🌍 &nbsp; I'm based in Earth, Milky Way
 - 🛠 &nbsp; I’m currently working with Spring, Laravel, Quarkus Nodejs, NestJS, ReactJS, Quasar, Javascript, Java, Golang, Kubernetes.
-- 🚀 &nbsp; I’m an Application Architect who loves working with any technologies and always test my limit.
+- 🚀 &nbsp; I’m a Solution Architect who loves working with any technologies and always test my limit.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nurrony).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/nurrony/nurrony/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: <a href="mailto:pro.nmrony@gmail.com">pro.nmrony@gmail.com</a>
 - 📝 &nbsp; Checkout My <a href="https://docs.google.com/document/d/1la47ET1NNEkxadiVgSZXz4kAvt_AIaHyvpZLKFkNW5Q" download="Nur-Rony-CV.pdf" target="_blank" rel="noopener"><strong>Curriculum Vitae (CV)</strong></a>.
-
-## Projects and Dev Stuffs:
-### ⚡ Github Stats
-<p align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&theme=tokyonight&rank_icon=github&border_color=4493f8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&rank_icon=github&border_color=4493f8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=nurrony&show_icons=true&rank_icon=github&border_color=4493f8" />
-</picture>
-</p>
-
-<p align="center">
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&show_icons=true&theme=tokyonight&border=4493f8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&border=4493f8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurrony&border=4493f8" />
-</picture>
-</p>
-
-
-### 🏆 Contribution Trophies
-
-<a href="https://github-profile-trophy.vercel.app/?username=nurrony">
-  <img src="https://github-profile-trophy.vercel.app/?username=nurrony&no-frame=true&row=1&theme=onedark" alt="nurrony" />
-</a>
 
 ### 🧑‍🚀 Open Source Projects and contributions
 

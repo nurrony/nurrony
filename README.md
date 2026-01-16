@@ -102,10 +102,10 @@
 
 ## My Workspace
 <p align="center">
-<img height=30 align="center" src="https://img.shields.io/badge/macbookpro-Late 2015 (Personal)-000?style=for-the-badge&logo=apple&logoColor=FFFFFF" />&nbsp;&nbsp;&nbsp;
-<img height=30 align="center" src="https://img.shields.io/badge/macbookpro- 14 inch M4 2024 (Office)-000?style=for-the-badge&logo=apple&logoColor=FFFFFF" />
+<img height=30 align="center" src="https://img.shields.io/badge/macbookpro-Late 2015 (Personal)-C0C0C0?style=for-the-badge&logo=apple&logoColor=FFFFFF" />&nbsp;&nbsp;&nbsp;
+<img height=30 align="center" src="https://img.shields.io/badge/macbookpro- 14 inch M4 2024 (Office)-C0C0C0?style=for-the-badge&logo=apple&logoColor=000000" />
 <br /><br />
-<img height=30 align="center" src="https://img.shields.io/badge/Ubuntu-Plucky Puffin (via VirtualBox)-C0C0C0?style=for-the-badge&logo=ubuntu"/></br>
+<img height=30 align="center" src="https://img.shields.io/badge/Red_Hat%20Linux%20(Via%20VMWare%20Fusion)-EE0000?style=for-the-badge&logo=redhat"/></br>
 </p>
 
 ### Want to know how I made this README?
